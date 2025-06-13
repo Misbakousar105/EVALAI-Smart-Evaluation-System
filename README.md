@@ -6,6 +6,7 @@ Automate the process of evaluating descriptive answers.
 Ensure fair and unbiased grading.
 Improve the efficiency and speed of result generation.
 Provide real-time feedback and analytics to educators.
+
 🧠 Key Features
 
 📘 Descriptive Answer Evaluation: Understands the context of student answers using NLP models.
@@ -32,6 +33,7 @@ Evaluates grammar, keyword usage, and context coverage.
 Assigns scores accordingly.
 Results are presented in a user-friendly dashboard.
 Feedback is provided by the model.
+
 📈 Results
 
 🚀 Improved evaluation speed by 60-80%.
